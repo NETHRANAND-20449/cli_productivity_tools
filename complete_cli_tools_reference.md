@@ -255,6 +255,10 @@ Start your CLI journey with these game-changers:
 - **`gradle`** - Build automation for Java/JVM
 - **`maven`** - Java project management tool
 
+### 🏗️ Project Scaffolding & Stack Generators
+
+- **`flisk`** - Generate and run your whole tech stack without the setup pain — one command from an empty folder to a running stack
+
 ### 📚 Documentation
 
 - **`doxygen`** - Documentation generator for C++, C, Java, etc.
