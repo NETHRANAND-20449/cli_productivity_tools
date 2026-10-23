@@ -124,6 +124,7 @@ dnf install <tool-name>
 - Code quality: `shellcheck`, `eslint`, `pylint`
 - Formatting: `prettier`, `black`, `rustfmt`
 - Build systems: `make`, `cmake`, `ninja`, `bazel`
+- Scaffolding: `flisk`
 - API testing: `httpie`, `curl`, `postman`
 </details>
 
